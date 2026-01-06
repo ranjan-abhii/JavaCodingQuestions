@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author abhiiperiperi
- *
- */
-module JavaPracticePrograms {
-}
